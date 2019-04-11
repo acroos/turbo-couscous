@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:acroos/turbo-couscous.git",
   "author": "acroos <roos.austin@gmail.com>",
-  "license": "Apache 2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }
