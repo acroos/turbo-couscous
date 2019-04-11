@@ -1,0 +1,8 @@
+{
+  "name": "turbo-couscous",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:acroos/turbo-couscous.git",
+  "author": "acroos <roos.austin@gmail.com>",
+  "license": "Apache 2.0"
+}
